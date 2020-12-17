@@ -26,7 +26,7 @@ import { OrdenarComponent } from './pages/ordenar/ordenar.component';
   ],
   imports: [
     CommonModule,
-    PrimeNgModule,
+    PrimeNgModule
   ]
 })
 export class VentasModule { }
